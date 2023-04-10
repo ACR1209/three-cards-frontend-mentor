@@ -23,12 +23,12 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop
-![](../public/desktop.png)
+![](./public/desktop.png)
 #### Desktop (Active States)
-![](../public/active.png)
+![](./public/active.png)
 
 #### Mobile
-![](../public/mobile.png)
+![](./public/mobile.png)
 
 ## My process
 I noted that this is just a single react component that simply changes color and contents in a flexbox. 
